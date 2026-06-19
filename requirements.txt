@@ -1,5 +1,11 @@
-numpy
+numpy<2
 pandas
 nltk
 scikit-learn
 spacy
+torch>=2.0.0
+sentence-transformers==2.2.2
+transformers==4.34.0
+accelerate==0.21.0
+huggingface-hub==1.15.0
+datasets
